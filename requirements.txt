@@ -7,7 +7,7 @@ greenlet==2.0.1
 gunicorn==20.1.0
 idna==3.4
 lxml==4.9.1
-mkl-fft==3.6
+mkl-fft==2.7
 mkl-service==2.4.0
 multitasking==0.0.11
 munkres==1.1.4
