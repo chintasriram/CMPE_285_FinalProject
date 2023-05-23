@@ -9,3 +9,6 @@ Ensure that there is a strong internet connection as the application needs yfina
 pip install -r requirements.txt
 python app.py
 Navigate to http://localhost:5000/
+
+# Project Presentation
+https://www.youtube.com/watch?v=T0dvxx4NkRk
